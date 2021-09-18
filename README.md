@@ -1,4 +1,4 @@
-# HasnatCET.Disaster_Managment
+
 
 # :label: Disaster Management
 ### Disaster Management is all about helping people around Us facing the troubles in disasters. This is done by running rescue operations, helping and Donation. 
